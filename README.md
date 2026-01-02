@@ -9,3 +9,7 @@
 <img width="385" height="303" alt="image" src="https://github.com/user-attachments/assets/6fe20d74-c3c5-4026-aa3a-e66334574bd4" />
 
 ```Here is another game that I made with the help of ChatGPT which is a fantasy game where you have to fend off hordes of enemies while trying to avoid your health from dropping below zero.```
+
+<img width="975" height="528" alt="image" src="https://github.com/user-attachments/assets/19020c63-dbae-4961-9e69-c5d3df54ec2d" />
+
+```The final game that I was working on with ChatGPT was a first person shooter based off of doom. I was able to make good progess with the raytracing, but I had continuing struggles with getting the game fully functional. Through my research I was able to get a better idea of the limitations of LLMs and the creation of games, which not to my surprise was very lacking and shows that dispite how far AI has come, it still has a long way to go to be able to create fully fledged games.```
